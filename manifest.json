@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Session Exporter",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon24.png",
+      "48": "images/icon48.png",
+      "128": "images/icon96.png"
+    }
+  },
+  "permissions": ["activeTab", "scripting"],
+  "icons": {
+    "16": "images/icon24.png",
+    "48": "images/icon48.png",
+    "128": "images/icon96.png"
+  }
+}
